@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: bhushan.dhumal07@gmail.com
     phone: 
-    website: blog.webjeda.com #do not add http://
+    website: # blog.webjeda.com #do not add http://
     linkedin: bhushandhumal
     xing: # alandoe
     github: bhushandhumal
@@ -38,30 +38,25 @@ sidebar:
         level: Native
 
 career-profile:
-    title: Career Profile
+    title: Senior Software Engineer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: Bachelor Of Engineering  in Computer Science
-      university: University of Mumbai
-      time: June 2013
-      details: |
-        64.45%
-    - degree: Higher Secondary School Certificate
-      university: Maharashtra Board
-      time: June 2009
-      details: |
-        79.83%
-    - degree: Secondary School Certificate 
-      university: Maharashtra Board
-      time: March 2007
-      details: |
-        81.53%
+        Focused and dedicated professional having 8+ years of experience in OOPs based Software Development. 
+        Strong technical ability combined with an analytical approach and good communication skills. 
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C++
+        level: 98%
+        
+      - name: Python & Django
+        level: 98%
+
+      - name: AngularJS
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 60%
 experiences:
     - role: Senior Software Engineer
       time: Nov 2019 - Present
@@ -97,22 +92,22 @@ experiences:
         -	Strong ability and experience working in heterogeneous technical environments including different OS, DB, App Server, etc.
         -	Customer-facing experience at London: To facilitate sessions, resolve conflicts and present solution using various methods (presentations, demos, business processes etc.)
         -	Actively involved in daily communication with On-site development and Business Analyst (BA) team.
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C++
-        level: 98%
-        
-      - name: Python & Django
-        level: 98%
-
-      - name: AngularJS
-        level: 60%
-
-      - name: HTML5 & CSS
-        level: 60%
+education:
+    - degree: Bachelor Of Engineering  in Computer Science
+      university: University of Mumbai
+      time: June 2013
+      details: |
+        64.45%
+    - degree: Higher Secondary School Certificate
+      university: Maharashtra Board
+      time: June 2009
+      details: |
+        79.83%
+    - degree: Secondary School Certificate 
+      university: Maharashtra Board
+      time: March 2007
+      details: |
+        81.53%
 
 
 footer: >
