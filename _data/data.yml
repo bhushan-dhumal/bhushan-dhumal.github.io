@@ -1,0 +1,119 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Bhushan Dhumal
+    tagline: Senior Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: bhushan.dhumal07@gmail.com
+    phone: 
+    website: blog.webjeda.com #do not add http://
+    linkedin: bhushandhumal
+    xing: # alandoe
+    github: bhushandhumal
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@bhushan807'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Marathi
+        level: Native
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: Bachelor Of Engineering  in Computer Science
+      university: University of Mumbai
+      time: June 2013
+      details: |
+        64.45%
+    - degree: Higher Secondary School Certificate
+      university: Maharashtra Board
+      time: June 2009
+      details: |
+        79.83%
+    - degree: Secondary School Certificate 
+      university: Maharashtra Board
+      time: March 2007
+      details: |
+        81.53%
+experiences:
+    - role: Senior Software Engineer
+      time: Nov 2019 - Present
+      company: DIEBOLD NIXDORF
+      details: |
+        -	Working on multi-vendor software solution for ATM. It is one of the oldest and major ATM products of Diebold.
+        -	Hands-on experience in C++ and AngularJS.
+        -	Involved in adding new features to solution like unblock pin.
+        -	Handling day to day requirements of the existing users and fixing bug reported by end user.
+        -	Experience in deploying code on ATM terminal device for dev testing and validation.
+
+    - role: Senior Software Engineer
+      time: May 2017 – Oct 2019
+      company: BANK OF AMERICA
+      details: |
+        -	Worked on application Credit Trade Transfer (CTC) developed using Python in Quartz framework, a C++ based framework.
+        -	Good experience in handling the team of four members and managing the migration project of Python 2.7 to 3.7
+        -	Taking responsibility for estimating, planning, and managing tasks of all the team members and reporting on progress.
+        -	Design, develop and implement new services from scratch as per users’ needs and requirements.
+        -	Hands-on experience to SCRUM model of Agile Methodology of Software Development Life Cycle (SDLC) and Test-Driven Development (TDD)
+        -	Extensively used Jenkins for continuous integration to setup the nightly builds and for deploying artefacts into corporate archive repository.
+        -	Efficient in Writing Unit Test Cases and Bug Fixing.
+        -	Involved in Code Delivery, Maintenance and Level 3 Support.
+
+    - role: SOFTWARE ENGINEER 
+      time: Jun 2013 – Apr 2017
+      company: BNP PARIBAS INDIA SOLUTIONS
+      details: |
+        -	Worked on Project - FOCUS (Front Office Credit Underlying System) which is MFC desktop window application developed in C++ language
+        -	Extensive Experience in Analysis, Design, Development of the FOCUS application using various Algorithms, Data Structure.
+        -	Worked on AngularJS as a front-end framework, C# as backend and used JSON data for communication.
+        -	Good SQL skills, can write complex SQL queries functions, triggers and stored procedures.
+        -	Strong ability and experience working in heterogeneous technical environments including different OS, DB, App Server, etc.
+        -	Customer-facing experience at London: To facilitate sessions, resolve conflicts and present solution using various methods (presentations, demos, business processes etc.)
+        -	Actively involved in daily communication with On-site development and Business Analyst (BA) team.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C++
+        level: 98%
+        
+      - name: Python & Django
+        level: 98%
+
+      - name: AngularJS
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 60%
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
