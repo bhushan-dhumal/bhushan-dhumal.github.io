@@ -1,1 +1,5 @@
-Digital Resume of Bhushan Dhumal
+Digital Resume.
+
+TODO :
+Add blog page
+Add all links page
